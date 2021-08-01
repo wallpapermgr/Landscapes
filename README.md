@@ -5,7 +5,7 @@ Landscapes wallpapers
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/wallpapermgr/Landscapes/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/wallpapermgr/Landscapes/raw/main/install.sh)"
 ```
   
 Manual install:
